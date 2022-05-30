@@ -1,5 +1,8 @@
 # egg-tamplate
 
+
+除了用户角色权限系统 还有其他接口功能实现，可自行体验
+
 ### 1. 启动之前的配置
 
  - config.default 配置
@@ -28,6 +31,7 @@
     controller.admin.role.update
 
 ```
+
 
 ### 3.启动
 
