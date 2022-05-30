@@ -1,0 +1,15 @@
+{
+    "extends": "eslint-config-egg",
+    "parser": "babel-eslint",
+    "rules": {
+        "no-unused-vars": 0,
+        "semi": 0,
+        "no-trailing-spaces": 0,
+        "indent": [2, 4], //缩进风格
+        "comma-dangle": 2,
+        "prettier/prettier": "off",
+        "arrowParens": "avoid",
+        "space-before-function-paren": 0,
+        "array-bracket-spacing": 0
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "editor.formatOnSave": false,
+    "prettier.tabWidth": 4,
+    "editor.tabSize": 4,
+    "files.insertFinalNewline": true,
+    "vetur.format.defaultFormatterOptions": {
+        "prettyhtml": {
+            "wrapAttributes": true
+        }
+    },
+    "vetur.format.options.tabSize": 2,
+    "vetur.format.options.useTabs": false,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": 0,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
